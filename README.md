@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alibehzadian
+- 👋 Hi, I’m Ali Behzadian @alibehzadian
 - 👀 I’m interested in Java development
 - 🌱 I’m currently learning modern software architecture
 - 💞️ I’m looking to collaborate on ... Good question!
-- 📫 Reach me via my email!
+- 📫 Reach me via my email (ali.behzadian)!
 
 <!---
 alibehzadian/alibehzadian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
